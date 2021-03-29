@@ -3,6 +3,7 @@
 My projects have the following structure:
 
   .
+  
   ├── data
   
   ├── notebooks
