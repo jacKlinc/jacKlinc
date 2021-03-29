@@ -1,11 +1,18 @@
 ### Hi there 👋
 
 My projects have the following structure:
+
 .
+
 ├── data
+
 ├── notebooks
+
 ├── src
+
 └── requirements.txt
+
+
 
 Any large data files are excluded and should be available on request.
 
