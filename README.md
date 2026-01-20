@@ -1,20 +1,3 @@
-### Hi there 👋
-
-My projects have the following structure:
-
-  .
-  
-  ├── data
-  
-  ├── notebooks
-  
-  ├── src
-  
-  └── requirements.txt
-
-
-Any large data files are excluded and should be available on request.
-
 **Find me here too:**
 
 [![Linkedin: jack-harding97](https://img.shields.io/badge/-Jack%20Harding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-harding97/)](https://www.linkedin.com/in/jack-harding97/)
